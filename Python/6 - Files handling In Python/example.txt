@@ -1,0 +1,6 @@
+Hello World!
+This is a newline.
+Append operation 
+First line 
+Second line 
+Tird line 
